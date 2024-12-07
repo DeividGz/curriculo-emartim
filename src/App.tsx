@@ -171,13 +171,16 @@ export default function App() {
           <p className="font-semibold">Fly TM</p>
           <p>
             O projeto Fly TM trata-se de uma plataforma para auxílio do jogador
-            de tênis de mesa. Esse foi o meu trabalho final da faculdade. Dentro
-            da plataforma, o usuário pode criar treinos e estratégias
-            personalizadas. Realizar compra de créditos para criar um clube, ou
-            fazer parte de um já criado, gratuitamente. Existe também uma sessão
-            de eventos, em que os usuários podem ficar a par de coisas
-            relacionadas ao esporte que estão acontecendo e, por fim, um placar
-            de tênis de mesa online.
+            de tênis de mesa. Esse foi o meu trabalho de graduação. Dentro da
+            plataforma o usuário pode:
+            <br />
+            - Criar treinos e estratégias personalizadas.
+            <br />
+            - Realizar compra de créditos para criar um clube, ou fazer parte de
+            um já criado, gratuitamente.
+            <br />
+            - Visualizar eventos relacionadas ao esporte.
+            <br />- Utilizar um placar de tênis de mesa online.
           </p>
           <p className="font-semibold">Tecnologias utilizadas</p>
           <div className="bg-emartim-section-gray p-2 rounded-lg">
