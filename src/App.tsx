@@ -149,6 +149,8 @@ export default function App() {
             Estagiário de TI
             <br />
             Secretaria da Saúde de Atibaia
+            <br />
+            Março/2024 - Setembro/2024
           </p>
           <p>Trabalhei com Google Planilhas, JavaScript e Firebase.</p>
           <p>
