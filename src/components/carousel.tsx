@@ -24,7 +24,7 @@ const Carousel: React.FC<CarouselProps> = ({ images }) => {
         <img
           src={`/carousel/${images[currentIndex].url}.png`}
           alt={`Imagem ${currentIndex + 1}`}
-          className="rounded-lg w-full h-64 object-cover"
+          className="rounded-lg w-full h-64 md:h-[500px] object-cover"
         />
         <p>{images[currentIndex].text}</p>
       </div>
