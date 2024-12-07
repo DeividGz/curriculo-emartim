@@ -36,6 +36,7 @@ const TechSkillsSection = () => {
           "git/git-original-wordmark",
           "github/github-original-wordmark",
           "trello/trello-original-wordmark",
+          "figma/figma-original",
         ]}
       />
       <TechArea

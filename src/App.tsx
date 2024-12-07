@@ -122,7 +122,7 @@ export default function App() {
         <div className="bg-emartim-secondary p-2 rounded-lg text-center text-white">
           <p>
             <span className="font-semibold">
-              Tecnólogo em Analise e Desenvolvimento de Sistemas
+              Tecnólogo em Análise e Desenvolvimento de Sistemas
             </span>
             <br />
             Fatec Bragança Paulista
@@ -160,7 +160,7 @@ export default function App() {
           <p>
             Fiz o levantamento de requisitos dos sistemas a serem desenvolvidos
             a partir de conversas com os meus colegas do setor, buscando
-            entender a atender da melhor forma as demandas existentes.
+            entender e atender da melhor forma as demandas existentes.
           </p>
         </div>
       </Section>
@@ -174,9 +174,10 @@ export default function App() {
             de tênis de mesa. Esse foi o meu trabalho final da faculdade. Dentro
             da plataforma, o usuário pode criar treinos e estratégias
             personalizadas. Realizar compra de créditos para criar um clube, ou
-            fazer parte de um já criado gratuitamente. Existe também uma sessão
+            fazer parte de um já criado, gratuitamente. Existe também uma sessão
             de eventos, em que os usuários podem ficar a par de coisas
-            relacionadas ao esporte que estão acontecendo.
+            relacionadas ao esporte que estão acontecendo e, por fim, um placar
+            de tênis de mesa online.
           </p>
           <p className="font-semibold">Tecnologias utilizadas</p>
           <div className="bg-emartim-section-gray p-2 rounded-lg">
