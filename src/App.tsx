@@ -148,7 +148,7 @@ export default function App() {
           <p className="font-semibold">
             Estagiário de TI
             <br />
-            Secretária da Saúde de Atibaia
+            Secretaria da Saúde de Atibaia
           </p>
           <p>Trabalhei com Google Planilhas, JavaScript e Firebase.</p>
           <p>
